@@ -1,0 +1,42 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "name": "abel",
+      "place": "Kochi",
+      "phone": "9523647125",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+    },
+    {
+      "id": 2,
+      "name": "Jerry",
+      "place": "Thrissur",
+      "phone": "952361429826",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 75000,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 2500,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1518441902110-2b9e5c3c6b89"
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "price": 5500,
+      "category": "Wearable",
+      "image": "https://images.unsplash.com/photo-1516575150278-77136aed6920"
+    }
+  ]
+}
